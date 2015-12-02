@@ -8,3 +8,5 @@ To run the specs follow these commands:
 $ learn  # runs only in the terminal
 $ learn -b # runs also in the browser
 ```
+
+<a href='https://learn.co/lessons/teenager.js' data-visibility='hidden'>View this lesson on Learn.co</a>
